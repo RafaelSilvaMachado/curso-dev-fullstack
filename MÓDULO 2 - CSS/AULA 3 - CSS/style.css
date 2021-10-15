@@ -1,0 +1,18 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.foto {
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    color: rgb(94, 94, 94);
+
+}
